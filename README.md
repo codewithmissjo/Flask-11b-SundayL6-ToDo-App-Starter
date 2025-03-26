@@ -40,7 +40,7 @@ NOTE: You can save the Update operation for next class, because it's the most co
 ### Read
 *  **Route URL:** '/'
 *  **Route variables:** none
-*  **Method:** get
+*  **Methods:** get
 *  **Template:** home.html
 *  **Actions:** get all the records from the database table
 *  **SQL query needed:** 'SELECT * FROM table_name'
@@ -49,7 +49,7 @@ NOTE: You can save the Update operation for next class, because it's the most co
 ### CREATE
 *  **Route URL:** 
 *  **Route variables:** 
-*  **Method:** 
+*  **Methods:** 
 *  **Template:** 
 *  **Actions:** 
 *  **SQL query needed:** 
@@ -58,7 +58,7 @@ NOTE: You can save the Update operation for next class, because it's the most co
 ### DELETE
 *  **Route URL:** 
 *  **Route variables:** 
-*  **Method:** 
+*  **Methods:** 
 *  **Template:** 
 *  **Actions:** 
 *  **SQL query needed:** 
@@ -67,7 +67,7 @@ NOTE: You can save the Update operation for next class, because it's the most co
 ### UPDATE
 *  **Route URL:** 
 *  **Route variables:** 
-*  **Method:** 
+*  **Methods:** 
 *  **Template:** 
 *  **Actions:** 
 *  **SQL query needed:** 
